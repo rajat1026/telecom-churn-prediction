@@ -57,7 +57,7 @@ The model proved to be moderately effective at distinguishing between churners a
 
 2.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/telecom-churn-prediction.git](https://github.com/rajat1026/telecom-churn-prediction.git)
+    git clone [https://github.com/rajat1026/telecom-churn-prediction.git]
     cd telecom-churn-prediction
     ```
 
